@@ -1,0 +1,7 @@
+SELECT Pracownicy.Nazwisko,
+Pracownicy.Zatrudniony,
+Pracownicy.Placa_pod,
+Etaty.Placa_min,
+Etaty.Placa_max,
+Zespoly.Nazwa
+FROM Pracownicy 
